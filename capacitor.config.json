@@ -1,0 +1,9 @@
+{
+  "appId": "com.example.wavearena",
+  "appName": "Wave Arena",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#0f1820"
+  }
+}
